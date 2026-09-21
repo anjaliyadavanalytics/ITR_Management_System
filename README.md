@@ -56,8 +56,8 @@ This project analyzes Income Tax Return (ITR) data to understand filing patterns
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of ITR management data, including key KPIs, trends, and analytical visualizations.
+<img width="1672" height="941" alt="itr-management" src="https://github.com/user-attachments/assets/1782745b-222a-448f-b51f-da773d73b053" />
 
-<img width="1672" height="941" alt="electric-vehicle" src="https://github.com/user-attachments/assets/7a95b222-9614-4e0a-bc2c-4c651eb3a4ab" />
 
 
 ---
